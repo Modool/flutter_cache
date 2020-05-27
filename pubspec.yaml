@@ -1,0 +1,20 @@
+name: flutter_object_cache
+description: A new Flutter package project.
+version: 0.0.1
+homepage: https://github.com/modool/flutter_object_cache
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^1.1.6+5
+  crypto: ^2.1.3
+  meta: ^1.1.7
+  path: ^1.6.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: any
